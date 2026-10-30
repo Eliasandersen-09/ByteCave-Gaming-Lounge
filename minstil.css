@@ -243,7 +243,7 @@ h3 {
 }
 
 .home-hero {
-  background-image: url("images/hero-gaming.jpg");
+  background-image: url("hero-gaming.jpg");
 }
 
 .events-hero,
@@ -254,19 +254,19 @@ h3 {
 }
 
 .events-hero {
-  background-image: url("images/events-hero.jpg");
+  background-image: url("events-hero.jpg");
 }
 
 .new-hero {
-  background-image: url("images/ny-i-hulen-hero.jpg");
+  background-image: url("ny-i-hulen-hero.jpg");
 }
 
 .hardware-hero {
-  background-image: url("images/hardware-hero.jpg");
+  background-image: url("hardware-hero.jpg");
 }
 
 .about-hero {
-  background-image: url("images/om-klubben-hero.jpg");
+  background-image: url("om-klubben-hero.jpg");
 }
 
 .hero-content,
